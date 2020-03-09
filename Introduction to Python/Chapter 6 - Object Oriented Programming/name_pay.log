@@ -1,0 +1,4 @@
+INFO:root:Ran with args ('James', 200000) and {}
+INFO:root:Ran with args ('Joe', 300000) and {}
+INFO:root:Ran with args (1000,) and {}
+INFO:root:Ran with args (1000,) and {}
