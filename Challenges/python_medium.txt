@@ -1,0 +1,229 @@
+Create a list of all even numbers between 10 and 200 using list comprehension
+Create a list of numbers using list comprehension. For each number between 1 and 20, multiple the number by 2 and add the number to the list if it is a multiple of 3 or 5
+Create a variable storing numbers from 1 to 100, now return the last 25 numbers from this list
+Create a variable storing numbers from 1 to 100, now return the numbers from this list backwards
+Create a class that stores the name, color, flavour and how poisonous a fruit is. After this create two functions; 1 regarding the description of the fruit (a function that prints out the fruits name, color and flavour). Create a nother function that prints out whether the fruit is poisonous or not. Add fruits to class and call each function in your class with different fruits as objects
+Define a class with a constructor (__init__ = object setup code, e.g. defining instance variables) and at least two methods. Use any concept you like (Employee, Car, Person, Animal, Account, Notebook, etc).
+Create a deck of cards class. Internally, the deck of cards should use another class, a card class. Your requirements are: The Deck class should have a deal method to deal a single card from the deck, After a card is dealt, it is removed from the deck., There should be a shuffle method which makes sure the deck of cards has all 52 cards and then rearranges them randomly., The Card class should have a suit (Hearts, Diamonds, Clubs, Spades) and a value (A,2,3,4,5,6,7,8,9,10,J,Q,K)
+Write a Python class to convert an integer to a roman numeral
+Write a Python class to convert a roman numeral to an integer. 
+Write a Python class to find validity of a string of parentheses, '(', ')', '{', '}', '[' and ']. These brackets must be close in the correct order, for example "()" and "()[]{}" are valid but "[)", "({[)]" and "{{{" are invalid.
+Write a Python class to find a pair of elements (indices of the two numbers) from a given array whose sum equals a specific target number
+Write a Python class to reverse a string word by word.
+Write a Python class to implement pow(x, n)
+Write a Python class named Rectangle constructed by a length and width and a method which will compute the area of a rectangle.
+Write a Python program to get the class name of an instance in Python 
+For this challenge, create a bank account class that has two attributes: owner, balance and two methods: deposit, withdraw. As an added requirement, withdrawals may not exceed the available balance. Instantiate your class, make several deposits and withdrawals, and test to make sure the account can't be overdrawn
+Codebar also has Workshops. Each Workshop has: A date, A subject, A group of instructors, A roster of students. An add_participant method that accepts a member as an argument. If the Member is an Instructor, add them to the instructors list. If a Member is a Student, add them to the students list. Create another method print_details that outputs the details of the workshop.
+Write a program which can map() to make a list whose elements are square of numbers between 1 and 20 (both included).
+Define a class named Nigerian which has a static method called printNationality.
+Define a class named South African and its subclass Capetonian.
+Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area.
+Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area.
+Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default.
+Please raise a RuntimeError exception.
+Write a function to compute 5/0 and use try/except to catch the exceptions.
+Define a custom exception class which takes a string message as attribute.
+Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
+Write a program which accepts a sequence of words separated by whitespace as input to print the words composed of digits only.
+Print a unicode string "hello world".
+Write a program to read an ASCII string and to convert it to a unicode string encoded by utf-8.
+Write a special comment to indicate a Python source code file is in unicode.
+Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
+Write a program to compute: f(n)=f(n-1)+100 when n>0 and f(0)=0 with a given n input by console (n>0).
+The Fibonacci Sequence is computed based on the following formula: f(n)=0 if n=0 f(n)=1 if n=1 f(n)=f(n-1)+f(n-2) if n>1. Please write a program to compute the value of f(n) with a given n input by console.
+Write a program using generator to print the even numbers between 0 and n in comma separated form while n is input by console.
+Write a program using generator to print the numbers which can be divisible by 5 and 7 between 0 and n in comma separated form while n is input by console.
+Write assert statements to verify that every number in the list [2,4,6,8] is even.
+Write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
+Generate a random float where the value is between 10 and 100 using a Python module.
+Generate a random float where the value is between 5 and 195 using a Python module.
+Write a program to output a random even number between 0 and 28 inclusive using random module and list comprehension.
+Write a program to output a random number, which is divisible by 5 and 7, between 10 and 150 inclusive using random module and list comprehension.
+Write a program to generate a list with 15 random numbers between 19 and 200 inclusive.
+Write a program to randomly generate a list with 5 numbers, which are divisible by 5 and 7 , between 1 and 1000 inclusive.
+Please write a program to randomly print a integer number between 7 and 15 inclusive.
+Please write a program to print the running time of execution of "1+1" for 100 times.
+Please write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play", "Love"] and the object is in ["Hockey","Football"].
+Please write a program to print the list after removing even numbers in [5,6,77,45,22,12,24].
+By using list comprehension, please write a program to print the list after removing numbers which are divisible by 5 and 7 in [12,24,35,70,88,120,155].
+By using list comprehension, please write a program to print the list after removing the 0th, 2nd, 4th,6th numbers in [12,24,35,70,88,120,155].
+By using list comprehension, please write a program to print the list after removing the 2nd - 4th numbers in [12,24,35,70,88,120,155].
+By using list comprehension, please write a program generate a 3*5*8 3D array whose each element is 0.
+By using list comprehension, please write a program to print the list after removing the value 24 in [12,24,35,24,88,120,155].
+With two given lists [1,3,6,78,35,55] and [12,24,35,24,88,120,155], write a program to make a list whose elements are intersection of the above given lists.
+With a given list [12,24,35,24,88,120,155,88,120,155], write a program to print this list after removing all duplicate values with original order reserved.
+Define a class Person and its two child classes: Male and Female. All classes have a method "getGender" which can print "Male" for Male class and "Female" for Female class.
+Please write a program which count and print the numbers of each character in a string input by console.
+Please write a program which accepts a string from console and print it in reverse order.
+Please write a program which accepts a string from console and print the characters that have even indexes.
+Write a program to solve a classic ancient Chinese puzzle: We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have?
+Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given scores. Store them in a list and find the score of the runner-up.
+You are given a string S and width W. Your task is to wrap the string into a paragraph of width.
+You are given an integer, N. Your task is to print an alphabet rangoli of size N. (Rangoli is a form of Indian folk art based on creation of patterns.)
+You are given a date. Your task is to find what the day is on that date.
+Given 2 sets of integers, M and N, print their symmetric difference in ascending order. The term symmetric difference indicates those values that exist in either M or N but do not exist in both.
+You are given words. Some words may repeat. For each word, output its number of occurrences. The output order should correspond with the input order of appearance of the word. See the sample input/output for clarification.
+You are given a string.Your task is to count the frequency of letters of the string and print the letters in descending order of frequency.
+Write a Python program that accepts a string and calculate the number of digits and letters.
+Given a number N.Find Sum of 1 to N Using Recursion
+Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included).The numbers obtained should be printed in a comma-separated sequence on a single line.
+Write a program which can compute the factorial of a given numbers.The results should be printed in a comma-separated sequence on a single line.Suppose the following input is supplied to the program: 8 Then, the output should be:40320
+With a given integral number n, write a program to generate a dictionary that contains (i, i x i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.Suppose the following input is supplied to the program: 8 Then, the output should be: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
+Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.
+A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps. The trace of robot movement is shown as the following:
+Ask user information, for ex: name, department, college etc and display them using print function
+Write a function that returns: 'Good' for numbers divisible by 7, 'Food' for numbers divisible by 6, 'Universe' for numbers divisible by 42, 'Oops' for all other numbers. Only one output, divisible by 42 takes precedence
+Print all numbers from 1 to 1000 which reads the same in reversed form in both binary and decimal format
+Write a function that returns product of all numbers of a list
+Write a function that returns nth lowest number of a list (or iterable in general). Return the lowest if second argument not specified
+Write a function that accepts a string input and returns slices if input string is less than 3 characters long, return a list with input string as the only element otherwise, return list with all string slices greater than 1 character long. Order of slices should be same as shown in examples below
+Check if two words are same or differ by only one character (irrespective of case), input strings should have same length
+Check if a word is in ascending/descending alphabetic order or not (irrespective of case). Can you think of a way to do it only using built-in functions and string methods?
+Write a function that accepts a filesystem path(default) or a url(indicated by True as second argument) and returns the longest word(here word is defined as one or more consecutive sequence of alphabets of either case). Assume that input encoding is utf-8 and small enough to fit in memory and that there's only one distinct longest word
+Write a Python program to create an array contains six integers. Also print all the members of the array
+Write a Python program to get the length of an array.
+Write a Python program to read a string and interpreting the string as an array of machine values
+Write a Python program to push three items into a heap and return the smallest item from the heap. Also Pop and return the smallest item from the heap.
+Write a Python program to insert items into a list in sorted order.
+Write a Python program to get the Python version you are using.
+Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.
+Create a Python project that prints out every line of the song "99 bottles of beer on the wall." Note: Try to use a built in function instead of manually type all the lines
+Create a Python project of a Magic 8 Ball which is a toy used for fortune-telling or seeking advice. Allow the user to input their question. Show an in progress message. Create 10/20 responses, and show a random response. Allow the user to ask another question/advice or quit the game.
+Create a Python project to guess a number that has randomly selected.
+Create a Python project to get the value of e to n number of decimal places. Note: Input a number and the program will generate e to the 'nth digit
+Create a Python project to get the value of Pi to n number of decimal places. Note: Input a number and the program will generate PI to the 'nth digit
+Write a NumPy program to compute the covariance matrix of two given arrays
+Write a NumPy program to compute cross-correlation of two given arrays. Sample Output: Original array1: [0 1 3] Original array1: [2 4 5]. Cross-correlation of the said arrays: [[2.33333333 2.16666667] [2.16666667 2.33333333]]
+Write a NumPy program to compute pearson product-moment correlation coefficients of two given arrays. Sample Output: Original array1: [0 1 3] Original array1: [2 4 5]. Pearson product-moment correlation coefficients of the said arrays: [[1. 0.92857143] [0.92857143 1. ]]
+Write a NumPy program to get the numpy version and show numpy build configuration.
+Write a NumPy program to create an array of 10 zeros,10 ones, 10 fives
+Write a NumPy program to create an array of the integers from 30 to 70
+Write a NumPy program to create an array of all the even integers from 30 to 70
+Write a NumPy program to generate a random number between 0 and 1
+Write a NumPy program to create a vector with values ranging from 15 to 55 and print all values except the first and last
+Write a NumPy program to create a vector with values from 0 to 20 and change the sign of the numbers in the range from 9 to 15
+Write a NumPy program to create a vector of length 5 filled with arbitrary integers from 0 to 10.
+Write a NumPy program to create a 3x4 matrix filled with values from 10 to 21
+Write a NumPy program to create a 3x3 identity matrix, i.e. diagonal elements are 1, the rest are 0.
+Write a NumPy program to create a 5x5 zero matrix with elements on the main diagonal equal to 1, 2, 3, 4, 5
+Write a NumPy program to create a 3x3x3 array filled with arbitrary values
+Write a NumPy program to compute the inner product of two given vectors
+Write a NumPy program to save a given array to a text file and load it.
+Write a NumPy program to convert a given array into a list and then convert it into a list again
+Write a NumPy program to compute the x and y coordinates for points on a sine curve and plot the points using matplotlib
+Write a NumPy program to convert numpy dtypes to native python types
+Write a NumPy program to compute the multiplication of two given matrixes
+Write a NumPy program to compute the cross product of two given vectors
+Write a NumPy program to compute the inverse of a given matrix
+Write a NumPy program to create a structured array from given student name, height, class and their data types. Now sort the array on height. Sample Output: Original array: [(b'James', 5, 48.5 ) (b'Nail', 6, 52.5 ) (b'Paul', 5, 42.1 ) (b'Pit', 5, 40.11)].. Sort by height [(b'Pit', 5, 40.11) (b'Paul', 5, 42.1 ) (b'James', 5, 48.5 ) (b'Nail', 6, 52.5 )]
+Write a Python program to create a lambda function that adds 15 to a given number passed in as an argument, also create a lambda function that multiplies argument x with argument y and print the result
+Write a Python program to create a function that takes one argument, and that argument will be multiplied with an unknown given number
+Write a Python program to sort a list of dictionaries using Lambda
+Write a Python program to filter a list of integers using Lambda
+Write a Python program to square and cube every number in a given list of integers using Lambda
+Write a Python program to find if a given string starts with a given character using Lambda
+Write a Python program to extract year, month, date and time using Lambda.
+Write a Python program to check whether a given string is number or not using Lambda.
+Write a Python program to create Fibonacci series upto n using Lambda
+Write a Python program to count the even, odd numbers in a given array of integers using Lambda
+Write a Python program to add two given lists using map and lambda
+Write a Python program to find the second lowest grade of any student(s) from the given names and grades of each student using lists and lambda. Input number of students, names and grades of each student.
+Write a Python program to find numbers divisible by nineteen or thirteen from a list of numbers using Lambda
+Write a Python program to find palindromes in a given list of strings using Lambda
+Write a Python program to find all anagrams of a string in a given list of strings using lambda
+Write a Python class to convert an integer to a roman numeral
+Write a Python class to convert a roman numeral to an integer.
+Write a Python class to find the three elements that sum to zero from a set of n real numbers
+Write a Python class named Rectangle constructed by a length and width and a method which will compute the area of a rectangle.
+Write a Python program to check that a string contains only a certain set of characters (in this case a-z, A-Z and 0-9)
+Write a Python program that matches a string that has an a followed by zero or more b's
+Write a Python program that matches a string that has an a followed by one or more b's.
+Write a Python program that matches a string that has an a followed by zero or one 'b'
+Write a Python program that matches a string that has an a followed by three 'b'
+Write a Python program to find sequences of lowercase letters joined with a underscore
+Write a Python program to find the sequences of one upper case letter followed by lower case letters
+Write a Python program that matches a string that has an 'a' followed by anything, ending in 'b'
+Write a Python program that matches a word at the beginning of a string.
+Write a Python program that matches a word at the end of string, with optional punctuation
+Write a Python program that matches a word containing 'z'
+Write a Python program that matches a word containing 'z', not at the start or end of the word
+Write a Python program to match a string that contains only upper and lowercase letters, numbers, and underscores
+Write a Python program where a string will start with a specific number
+Write a Python program to remove leading zeros from an IP address
+Write a Python program to check for a number at the end of a string
+Write a Python program to search the numbers (0-9) of length between 1 to 3 in a given string
+Write a Python program to replace whitespaces with an underscore and vice versa
+Write a Python program to find the occurrence and position of the substrings within a string
+Write a Python program to convert a date of yyyy-mm-dd format to dd-mm-yyyy format
+Write a Python program to match if two words from a list of words starting with letter 'P'
+Write a Python program to find all words starting with 'a' or 'e' in a given string
+Write a Python program to separate and print the numbers and their position of a given string
+Write a Python program to abbreviate 'Road' as 'Rd.' in a given string
+Write a Python program to replace maximum 2 occurrences of space, comma, or dot with a colon
+Write a Python program to find all three, four, five characters long words in a string
+Write a Python program to find all words which are at least 4 characters long in a string
+Write a python program to convert camel case string to snake case string
+Write a Python program to extract values between quotation marks of a string
+Write a Python program to remove everything except alphanumeric characters from a string
+Write a Python program to find all adverbs and their positions in a given sentence.
+Write a Python program to check a decimal with a precision of 2
+Write a Python program to remove words from a string of length between 1 and a given number.
+Write a Python program to insert spaces between words starting with capital letters
+Write a Python program to remove lowercase substrings from a given string
+Write a Python script to sort (ascending and descending) a dictionary by value
+Write a Python script to check whether a given key already exists in a dictionary
+Write a Python program to iterate over dictionaries using for loops
+Write a Python program to remove a key from a dictionary
+Write a Python program to sort a dictionary by key
+Write a Python program to get the maximum and minimum value in a dictionary
+Write a Python program to get a dictionary from an object's fields
+Write a Python program to get the maximum and minimum value in a dictionary
+Write a Python program to sort a list alphabetically in a dictionary
+Write a Python program to remove spaces from dictionary keys
+Write a Python program to get the key, value and item in a dictionary
+Write a Python program to count number of items in a dictionary value that is a list
+Write a Python program to read each row from a given csv file and print a list of strings
+Write a Python program to convert JSON data to Python object.
+Write a Python program to calculate the difference between the squared sum of first n natural numbers and the sum of squared first n natural numbers.(default value of number=2)
+Write a Python program to calculate the sum of all digits of the base to the specified power
+Write a Python program to check if a given positive integer is a power of two
+Write a Python program to check if a number is a perfect square
+Write a Python program to check if a number is a power of a given base
+Write a Python program to compute and return the square root of a given 'integer'
+Write a Python program to display first 5 rows from COVID-19 dataset. Also print the dataset information and check the missing values. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to get the latest number of confirmed, deaths, recovered and active cases of Novel Coronavirus (COVID-19) Country wiseData Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to get the latest number of confirmed deaths and recovered people of Novel Coronavirus (COVID-19) cases Country/Region - Province/State wise. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to get the Chinese province wise cases of confirmed, deaths and recovered cases of Novel Coronavirus (COVID-19). Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to get the latest country wise deaths cases of Novel Coronavirus (COVID-19). Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to list countries with no cases of Novel Coronavirus (COVID-19) recovered. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to list countries with all cases of Novel Coronavirus (COVID-19) died. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to list countries with all cases of Novel Coronavirus (COVID-19) recovered. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to get the top 10 countries data (Last Update, Country/Region, Confirmed, Deaths, Recovered) of Novel Coronavirus (COVID-19). Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to create a plot (lines) of total deaths, confirmed, recovered and active cases Country wise where deaths greater than 150. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to visualize the state/province wise death cases of Novel Coronavirus (COVID-19) in USA. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to visualize the state/province wise Active cases of Novel Coronavirus (COVID-19) in USA. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to visualize the state/province wise combine number of confirmed, deaths, recovered, active Novel Coronavirus (COVID-19) cases in USA. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program to visualize Worldwide Confirmed Novel Coronavirus (COVID-19) cases over time. Data Source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+Write a Python program where you take any positive integer n, if n is even, divide it by 2 to get n / 2. If n is odd, multiply it by 3 and add 1 to obtain 3n + 1. Repeat the process until you reach 1.
+Write a python program to find the difference between the sum of the squares of the first two hundred natural numbers and the square of the sum
+Write a python program to find the 1000th prime number
+Write a Python program to find the starting number, under ten thousand will create the longest chain.
+Write a Python program to find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
+Write a Python program that takes a string and encode it that the amount of symbols would be represented by integer and the symbol. For example, the string "AAAABBBCCDAAA" would be encoded as "4A3B2C1D3A"
+Write a Python program to multiply two integers without using the * operator in python.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

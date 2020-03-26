@@ -1,0 +1,151 @@
+You are a production manager for a newspaper. You want to find the percentage defective. Of 250 newspapers, 50 had defects. What is the 95% confidence interval estimate of the population proportion defective?
+A manager is keen to investigate about the smoking status in his company. He believes that 40% of his employees smoke. The manager survey 25 employs randomly. (a) What is the probability that 8 or more employees were smoker? (b) What is the probability that more than 8 employees were smoker? Give the answers to 4 decimal places.
+Suppose you toss 4 coins. (a) What is the probability of getting 0 heads? (b) What is the probability of getting 0 tails?
+In a lottery game, a player picks six numbers from 1 to 53. If 6 of the 6 numbers match those drawn, the player wins the jackpot. What is the probability of winning this prize?
+Compute the probability that a 5 card poker hand is dealt to you that contains exactly four aces?
+In a bag you have a total of 25 marbles, 12 blue, 6 red, 3 green and 4 yellow. Answer with decimals and round to 2 places. What is the probability you select a red marble?
+Determine mean and standard deviation from the given parameters of the population and sample size: mean = 75, standard deviation = 8, n = 21.
+Given P(A) = 0.7 and P(B) = 0.4 a. If A and B are independent events, compute P(A and B). b. If P(A | B) = 0.7, compute P(A and B).
+A softball player has a 30% chance of getting a hit each time she comes to bat. Assuming that each at-bat is a statistically independent event, what is the probability that she will get a hit in her first at-bat?
+Supposed a certain game is fair and costs $8 if you lose and has a net payoff of $10 if you Win. The only possible outcomes of the game are winning and losing. What is the probability of winning?
+Find the probability that when a couple has four children at least one of them is a boy. Assume that boys and girls are equally likely.
+What is the probability of observing at exactly one 5 with two fair die?
+Build a function that simulates a die rolling 2000 times, find the average number the die lands on and build a chart to visualize each roll. Explain your observations
+There are 6 people in your group of close friends. What is the probability that two or more of you have the same birthday?
+Suppose you buy 1 ticket for $1 out of a lottery of 3,000 tickets. If the prize for the one winning ticket is to be $1,000, what are your expected winnings?
+Using a standard 52 card deck, whats the probability of being dealt a pair of aces in a 5 card hand?
+What are the odds of getting four tails in a row?
+Given a black card, what is the probability that it is a spade?
+What is the probability of getting two pairs in poker?
+Find the probability of randomly selecting a number between 1 and 1000 (including both ends) which is divisible by: a. 3. b. 3 and 5. c. 3 or 5.
+Two fair dice are rolled. What is the conditional probability that at least one lands on 6 given that the dice land on different numbers?
+A fair coin is flipped six times. What is the probability that heads occurs exactly 6 times, if it is known that heads occurs at least four times?
+Compute the probability that a 5 card poker hand is dealt to you that contains exactly four aces?
+If the Eagles have a 20% chance of beating the Patriots, what are the odds against the Eagles?
+What are the odds against rolling a 1 on a 6-sided die?
+In a bag you have a total of 25 marbles, 12 blue, 6 red, 3 green and 4 yellow. Answer with decimals and round to 2 places. What is the probability you select 2 blue marbles (without replacement)?
+In a bag you have a total of 25 marbles, 12 blue, 6 red, 3 green and 4 yellow. Answer with decimals and round to 2 places. What is the probability you select a red marble?
+If you draw three cards from the deck at the same time, what is the probability that they will be a 2, 3 and 4?
+What is the probability of a four-of- a- kind when 5 cards are dealt?
+What is the probability of never rolling a 6 when rolling a 6-sided die 10 times?
+How many ways can a player draw a flush (5 cards all the same suit) from a standard deck of cards?
+What is the probability of obtaining four tails in a row when flipping a coin?
+You have the numbers 1 to 24 written on slips of paper. If you choose one slip at random, what is the probability that you will not select a number which is divisible by 6?
+If a 5-card poker hand contains at least 2 aces, then what is the probability that it is a full house?
+What is the probability that a hand of 7 cards contains 3 pairs of 3 different ranks?
+A fair coin is tossed 3 times. What is the probability of at least two consecutive heads?
+A couple have 2 children. What is the probability that both are female?
+An experiment consists of tossing two dice. How many times do you expect to repeat the experiment until the sum on the two dice is 5?
+What is the probability that two people have a birthday on the same day of the same month?
+What is the probability that a five-card poker hand contains a straight flush?
+What is the probability that a five-card poker hand contains the ace of diamonds?
+If three coins are flipped, what is the probability of getting exactly one head?
+A box has n socks, 3 of which are red. What is the value of n if, when 2 socks are chosen randomly from the box, the probability of both socks being red is 1/2?
+Two fair dice are rolled. What is the conditional probability that at least one lands on 6?
+If you were to randomly choose a letter from the 26 letters in the alphabet, what is the probability that the chosen letter is in the word mathematics?
+If I pull two cards out of a deck what are the chances of them being the same color?
+A fair die is rolled thrice. What is the probability of obtaining 4 or 6?
+What is the probability that a five card poker hand contains the king of hearts?
+A couple has 2 children. What is the probability that both are girls?
+What is the probability that all 5 cards have the same suit?
+If Ivan has the ace of spades, what is the probability that he has at least two aces?
+If you had two six-sided dice, what is the probability you get a 7?
+One coin is tossed 3 times, what is the probability of getting at least two heads?
+What is the minimum number of students, each of whom comes from one of the 52 countries in Africa, who must be enrolled in a university to guarantee that there are at least 100 who come from the same country?
+Players a, b, and c toss a fair coin in order. The first to throw a head wins. What are their respective chances of winning?
+Given one of your cards is an Ace, what is the probability the other is an Ace.
+What is the variance of the number of times 6 appears when a fair die is rolled 10 times?
+Hanxi flips a fair coin 11 times, and Aixi flips the coin 10 times. How likely is it that Hanxi flipped more heads than Aixi?
+We shuffle a deck of 52 cards and then flip them one by one. Let x denote the number of times when we see three number cards in a row. Find the expected value of x.
+Six pennies are tossed at once. What is the probability of obtaining 3 heads and 3 tails?
+A family has five kids. What is the probability that they are three males and two females?
+What is the probability that a five-card poker hand contains no spades?
+what is the probability of drawing three queens from a standard deck of cards, given that the first card drawn was a queen? assume that the cards are not replaced.
+what is the probability that a five-card poker hand contains the two of diamonds and the three of spades?
+20% of all students are left handed. a class of size 20 meets in a room with 5 left handed and 18 right handed chairs. find the probability that each student will have a chair to their needs?
+A dice is rolled until you've gotten all 6 possible results. What is the probability that it only takes 6 rolls?
+Suppose 8 cards are chosen at random from one deck of playing cards. What is the probability that exactly 2 cards are chosen from each suit?
+Five cards are drawn from a pack of 52 cards. What is the chance that these contain just two aces?
+What is the probability of being dealt 2 face cards, one being a King?
+If a die is rolled 4 times, what is the probability that 6 comes up at least once?
+A shipment of 40 fancy calculators contains 3 defective units. What is the probability if a college bookstore buys 20 calculators out of this shipment and 1 is defective?
+If the odds in favor of an event are 3 : 8, then what is the probability that the event will occur?
+Five cards are chosen from an ordinary deck of 52 playing cards to form a poker hand. What is the probability that the hand has at most 2 face cards?
+What is the probability of rolling a sum of 2 on a standard pair of six-sided dice? Express your answer as a fraction or a decimal number rounded to three decimal places, if necessary.
+What is the probability, when tossing 3 coins that they all land on heads or tails?
+If a person is dealt 5 cards from a standard deck of 52 playing cards, what is the probability of being dealt 4 of a kind?
+If a bag contains 3 apples and 2 oranges, what is the probability that an apple will be picked first, and then an orange second?
+The odds on (against) your bet are 1 to 4. If you bet $8 and win, how much will you gain?
+Simulate 100 throws of a fair die, and calculate the estimated probability that the result is a 6. (assume the die being rolled has six sides). 
+What is the probability of getting either a sum of 6 or at least one 4?
+You draw 3 cards from a regular deck of 52 playing cards. What is the probability that you will draw a 3 of a kind?
+You roll 2 6-sided dice. What is the probability that the two dice will total at least 5?
+You take a three-question true-or-false quiz. You guess on all the questions. What is the probability that you will get a perfect score?
+An experiment consists of dealing 5 cards from a standard 52-card deck. What is the probability of being dealt 5 hearts?
+You roll three six-sided dice. What is the probability that the sum is 8 given that one die shows a 1?
+A club is choosing 2 members to serve on a committee. The club has nominated 2 women and 6 men. Based on chance alone, what is the probability no men are chosen to be on the committee?
+A standard pair of 6-sided dice are rolled. What is the probability of rolling a sum less than 5?
+What is the probability of rolling a 2 or a 4 on a standard 6-sided die?
+If a three-child family is selected at random, what is the probability of there being 2 or more girls in the family?
+You draw a card from a standard deck of 52 playing cards. Find the probability that you do not draw a face card.
+If you toss six fair coins, in how many ways can you obtain at least two heads?
+If scores on a test are normally distributed with mean 80 and standard deviation 6, what is the probability that the average of 10 randomly selected scores will be larger than 82?
+If you flip three fair coins, what is the probability that you'll get heads on the first two flips and tails on the last flip?
+A coin was flipped 25 times, it landed on heads 10 times and tails 15 times. What is the experimental probability of the coin landing on heads?
+In a certain game, 6 cards will be drawn from a deck of well shuffled card. 1. Find the probability of drawing 2 hearts, 2 spade, 2 clubs. 2. Find the probability of getting 4 heart and 2 spade.
+What is the probability of rolling an odd number on a fair die (singular of dice) in one roll?
+Sipho drew one card from a 52 deck of cards. What is the probability that he drew a heart or a diamond?
+A fair coin is tossed 100 times. What is the probability that heads appears fewer than 40 times?
+Two cards are randomly selected from a deck of 52 playing cards. What is the conditional probability they are both aces, given that they are of different suits?
+A box of 30 diodes is known to contain five defective ones. If two diodes are selected at random without replacement, what is the probability that at least one of these diodes is defective?
+Find the probability that a person flipping a coin gets the third head on the seventh flip.
+If you toss a coin 3 times, what is the probability of getting 3 heads?
+You roll a fair six-sided die twice. Find the probability of rolling a 5 the first time and a number greater than 1 the second time.
+There are 1,000 raffle tickets for a fundraiser. If a mother buys 25 tickets, and a father buys 20 tickets, what is the probability the family will win?
+If you roll a fair die and then roll a second fair die, what is the probability that you roll a 1 , 2, or 3 on the first die and roll a 5 on the second die?
+The marks on a midterm test are normally distributed with a mean of 72.3 and a standard deviation of 10.2. Find the probability that a class of 38 has an average less than 70.
+If you are dealt a 5-card hand from a standard deck of 52 playing cards, what is the probability that you are dealt at least 4 hearts?
+A bag contains 2 red beads, 6 blue beads, and 12 green beads. If a single bead is picked at random, what is the probability that the bead is red or green?
+An experiment consists of rolling a fair die. Find the probability that we roll a 4 or a 6.
+If I roll a die for 20 times, what is the chance for me to get 2 for 5 times? Round up your answer to three digits after decimal point.
+During one year, a particular mutual fund outperformed the S&P 500 index 32 out of 52 weeks. Find the probability that it would perform as well or better again.
+A standard six-sided dice is repeatedly rolled until it lands on a two. What is the probability that the first two is rolled after the first six rolls?
+The mean annual wage of a worker is 55,000, with a standard deviation of 14,000. Determine the probability the worker makes between 40,000 and 65,000 per year?
+Lengths of human pregnancies are normally distributed with mean 268 days and standard deviation 15 days. What percentage of pregnancies last between 250 days and 280 days?
+Identify the rate, base, and amount in the following application In a shipment of 750 parts, 75 were found to be defective. What percent of the parts were faulty?
+Players A, B, and C toss a fair coin in order. The first to toss a head wins. What is the chance of C to win?
+Consider a group of 30,000 individuals with a similar health risk: The income loss for an individual if poor health occurs is $20,000. The probability of poor health is 20%. What is the expected medical cost per member per year for this group?
+You are a broker; your job is to accommodate your client’s wishes without placing any of your personal capital at risk. Your client wishes to place an even $1,000 bet on the outcome of the World Series, which is a baseball contest decided in favor of whichever of two teams first wins 4 games. That is, the client deposits his $1,000 with you in advance of the series. At the end of the series he must receive from you either $2,000 if his team wins, or nothing if his team loses. No market exists for bets on the entire world 2 series. However, you can place even bets, in any amount, on each game individually. What is your strategy for placing bets on the individual games in order to achieve the cumulative result demanded by your client?
+A fair six-sided die is rolled twice. What is the probability of getting 2 on the first roll and not getting 4 on the second roll?
+Consider a tetrahedral die and roll it twice. What is the probability that the number on the first roll is strictly higher than the number on the second roll? Note: A tetrahedral die has only four sides (1, 2, 3 and 4). 
+A group of 60 students is randomly split into 3 classes of equal size. All partitions are equally likely. Jack and Jill are two students belonging to that group. What is the probability that Jack and Jill will end up in the same class?
+Suppose a life insurance company sells a $240,000 one year term life insurance policy to a 25-year old female for $210. The probability that the female survives the year is .999592. Find the expected value of this policy for the insurance company.
+Cross-fertilizing a red and a white flower produces red flowers 25% of the time. Now we cross-fertilize five pairs of red and white flowers and produce five offspring. What is the probability that there are no red flower plants in the five offspring? 
+A roulette wheel has 38 slots – 18 red, 18 black, and 2 green. You play five games and always bet on red slots. How many games can you expect to win?
+Some test scores follow a normal distribution with a mean of 18 and a standard deviation of 6. What proportion of test takers have scored between 18 and 24?
+A jar contains 4 marbles. 3 Red & 1 white. Two marbles are drawn with replacement after each draw. What is the probability that the same color marble is drawn twice?
+Suppose you were interviewed for a technical role. 50% of the people who sat for the first interview received the call for second interview. 95% of the people who got a call for second interview felt good about their first interview. 75% of people who did not receive a second call, also felt good about their first interview. If you felt good after your first interview, what is the probability that you will receive a second interview call?
+Assume you sell sandwiches. 70% people choose egg, and the rest choose chicken. What is the probability of selling 2 egg sandwiches to the next 3 customers?
+The students of a particular class were given two tests for evaluation. Twenty-five percent of the class cleared both the tests and forty-five percent of the students were able to clear the first test. Calculate the percentage of students who passed the second test given that they were also able to pass the first test.
+While it is said that the probabilities of having a boy or a girl are the same, let’s assume that the actual probability of having a boy is slightly higher at 0.51. Suppose a couple plans to have 3 children. What is the probability that exactly 2 of them will be boys?
+About 30% of human twins are identical, and the rest are fraternal. Identical twins are necessarily the same sex, half are males and the other half are females. One-quarter of fraternal twins are both males, one-quarter both female, and one-half are mixed: one male, one female. You have just become a parent of twins and are told they are both girls. Given this information, what is the probability that they are identical?
+Jack is having two coins in his hand. Out of the two coins, one is a real coin and the second one is a faulty one with Tails on both sides. He blindfolds himself to choose a random coin and tosses it in the air. The coin falls down with Tails facing upwards. What is the probability that this tail is shown by the faulty coin?
+A fly has a life between 4-6 days. What is the probability that the fly will die at exactly 5 days?
+What is the probability of getting a sum of 7 when two dice are thrown?
+Two cards are drawn from the pack of 52 cards. Find the probability that both are diamonds or both are kings.
+Three dice are rolled together. What is the probability as getting at least one '4'?
+Find the probability of getting two heads when five coins are tossed
+What is the probability of getting a sum of 22 or more when four dice are thrown?
+Two dice are thrown together. What is the probability that the number obtained on one of the dice is multiple of number obtained on the other dice?
+From a pack of cards, three cards are drawn at random. Find the probability that each card is from different suit.
+Find the probability that a leap year has 52 Sundays.
+Fifteen people sit around a circular table. What are odds against two particular people sitting together?
+Three bags contain 3 red, 7 black; 8 red, 2 black, and 4 red & 6 black balls respectively. 1 of the bags is selected at random and a ball is drawn from it. If the ball drawn is red, find the probability that it is drawn from the third bag.
+A committee of 5 people is to be formed randomly from a group of 10 women and 6 men. Find the probability that the committee has a) 3 women and 2 men and b.) 4 women and 1 men.
+In a school, 60% of pupils have access to the internet at home. A group of 8 students is chosen at random. Find the probability that exactly 5 have access to the internet.
+The grades of a group of 1000 students in an exam are normally distributed with a mean of 70 and a standard deviation of 10. A student from this group is selected randomly. a) Find the probability that his/her grade is greater than 80. b) Find the probability that his/her grade is less than 50.
+A die is rolled, find the probability that an even number is obtained.
+Two coins are tossed, find the probability that two heads are obtained. Note: Each coin has two possible outcomes H (heads) and T (Tails)
+Two dice are rolled, find the probability that the sum is a) equal to 1 b) equal to 4 c) less than 13
+Sam is playing songs on her mp3 player. She has 7 hip-hop songs, 9 rock songs, and 7 pop songs. If she has the mp3 player play the songs at random without repeating, what is the probability that the first song will be a rock song and the second song will be a hip-hop song?
+A test has been developed to detect a particular type of arthritis in individuals over 50 years old. From a national survey it is known that approximately 10% of the individuals in this age group suffer from this form of arthritis. The proposed test was given to individuals with confirmed arthritis disease, and a correct test result was obtained in 85% of the cases. When the test was administered to individuals of the same age group who were known to be free of the disease, 4% were reported to have the disease. What is the probability that an individual has this disease given that the test indicates its presence? 
