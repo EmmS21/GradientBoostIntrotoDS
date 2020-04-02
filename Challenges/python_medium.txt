@@ -212,18 +212,3 @@ Write a Python program to find the starting number, under ten thousand will crea
 Write a Python program to find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
 Write a Python program that takes a string and encode it that the amount of symbols would be represented by integer and the symbol. For example, the string "AAAABBBCCDAAA" would be encoded as "4A3B2C1D3A"
 Write a Python program to multiply two integers without using the * operator in python.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

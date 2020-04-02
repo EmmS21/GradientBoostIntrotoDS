@@ -17,6 +17,17 @@ Make a system that allows users to put together their own little travel itinerar
 Create a program which can download videos to your hard drive from youtube.com. Save the files in various formats including FLV and AVI.
 Create a program to convert JSON files to CSV
 Calculating the frequency of words in a block of text is a technique which has various uses in algorithms such as searching, sorting, and semantic analysis. The objective of the Word Frequency app is count the frequency of words in a block of text and create a tabular display of each unique word in the text along with its frequency, in descending order by frequency.
-
-
-
+Given a dollar amount between 0.00 and 999,999.00, create a program that will provide a worded representation of a dollar amount on a check.
+Build a decision tree using the CART algorithm from scratch. Do not use the Sci-Kit learn library...and don't copy and paste existing solutions ;)
+Build a decision tree using the ID3 algorithm from scratch. Do not use the Sci-Kit learn library...and don't copy and paste existing solutions ;)
+Build an interactive dashboard visualizing data from a website of your choice. Share a link to your solution on Slack.
+Build a logistic regression model from scratch. Do not use the Sci-Kit learn library...and don't copy and paste existing solutions ;)
+Here is a Kaggle dataset on CBC News COVID-19 coverate. What interesting insights can you come up with using this dataset. You may want to work on a Jupyter Notebook for this one, specifically in terms of exploratory data analysis. Please share a link to your work on Slack. Link: https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26
+Here is a Kaggle dataset on data the New York Times collected on cumulative counts of coronavirus cases in the US at the state and count level. What interesting insights can you come up with, specifically in terms of exploratory data analysis. Please share a link to your work on Slack. Link: https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26
+Generate 30 lists where length is equal to 20 with random numbers ranging from 0 to 10. Return the sum of the numbers in the array, except ignore sections of numbers starting with a 6 and extending to the next 7 (every 6 will be followed by at least one 7). Return 0 for no numbers.
+In the United Kingdom the currency is made up of pound (£) and pence (p). There are eight coins in general circulation: 1p, 2p, 5p, 10p, 20p, 50p, £1 (100p), and £2 (200p). It is possible to make £2 in the following way: 1×£1 + 1×50p + 2×20p + 1×5p + 1×2p + 3×1p. How many different ways can £2 be made using any number of coins?
+The prime 41, can be written as the sum of six consecutive primes: 41 = 2 + 3 + 5 + 7 + 11 + 13. This is the longest sum of consecutive primes that adds to a prime below one-hundred. The longest sum of consecutive primes below one-thousand that adds to a prime, contains 21 terms, and is equal to 953. Which prime, below one-million, can be written as the sum of the most consecutive primes?
+We shall say that an n-digit number is pandigital if it makes use of all the digits 1 to n exactly once. For example, 2143 is a 4-digit pandigital and is also prime. What is the largest n-digit pandigital prime that exists?
+Write a program to solve a classic ancient Chinese puzzle: We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have?
+Write a Python program that accepts a string and calculate the number of digits and letters. Define a class which has at least two methods: getString: to get a string from console input printString: to print the string in upper case. Also please include simple test function to test the class methods
+145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145. Find the sum of all numbers which are equal to the sum of the factorial of their digits. Note: as 1! = 1 and 2! = 2 are not sums they are not included.
