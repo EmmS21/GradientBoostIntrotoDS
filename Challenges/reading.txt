@@ -3,5 +3,3 @@ https://www.kdnuggets.com/2020/04/guide-data-science-build-data-project.html | A
 https://www.kdnuggets.com/2020/04/introduction-k-nearest-neighbour-algorithm-using-examples.html | Introduction to the K-Nearest Neighbour Algorithm using examples
 https://www.kdnuggets.com/2020/04/five-cool-python-libraries-data-science.html | Five cool python libraries for Data Science
 https://www.kdnuggets.com/2020/04/10-best-machine-learning-textbooks-data-scientists.html | 10 Best Machine Learning Textbooks that all Data Scientists should read
-
-
