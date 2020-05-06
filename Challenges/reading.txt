@@ -3,3 +3,135 @@ https://www.kdnuggets.com/2020/04/guide-data-science-build-data-project.html | A
 https://www.kdnuggets.com/2020/04/introduction-k-nearest-neighbour-algorithm-using-examples.html | Introduction to the K-Nearest Neighbour Algorithm using examples
 https://www.kdnuggets.com/2020/04/five-cool-python-libraries-data-science.html | Five cool python libraries for Data Science
 https://www.kdnuggets.com/2020/04/10-best-machine-learning-textbooks-data-scientists.html | 10 Best Machine Learning Textbooks that all Data Scientists should read
+https://podcasts.google.com/?feed=aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3ByYWN0aWNhbGFpL2ZlZWQ&episode=Y2hhbmdlbG9nLmNvbS83LzkxNQ | Building a career in Data Science
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471 | Machine Learning is Fun!
+https://towardsdatascience.com/the-ten-fallacies-of-data-science-9b2af78a1862 | The Ten Fallacies of Data Science
+https://towardsdatascience.com/how-to-refactor-a-jupyter-notebook-ed531b6a17 | How to refactor a Jupyter notebook
+https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a | The most important part of a data science project is writing a blog post
+https://towardsdatascience.com/the-power-of-visualization-in-data-science-1995d56e4208 | The power of Visualization
+https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28 | Handling imbalanced datasets in machine learning
+https://towardsdatascience.com/what-is-dirty-data-d96abbdf254e | What is Dirty Datahttps://towardsdatascience.com/7-tips-for-dealing-with-small-data-7ffbd3d399a3 | 7 tips for dealing with small data
+https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef | Selecting the best Machine Learning algorithm for your regression problem
+https://towardsdatascience.com/20-questions-to-ask-prior-to-starting-data-analysis-6ec11d6a504b | 20 Questions to ask prior to starting data analysis
+https://towardsdatascience.com/how-to-ask-the-right-questions-as-a-data-scientist-913621907411 | How to ask the right questions as a data scientist
+https://towardsdatascience.com/first-create-a-common-sense-baseline-e66dbf8a8a47 | Create a common-sense baseline first
+https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-understanding-decision-trees-adb2165ccab7 | Intuitive Guide to understanding Decision Trees
+https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63 | Categorical Data
+https://machinelearningmastery.com/how-to-learn-a-machine-learning-algorithm/ | How to learn a Machine Learning Algorithm
+https://machinelearningmastery.com/how-to-study-machine-learning-algorithms/ | How to study Machine Learning Algorithms
+https://machinelearningmastery.com/question-to-understand-any-machine-learning-algorithm/ | 6 Questions to understand any machine learning algorithm
+https://www.analyticsvidhya.com/blog/2020/04/statistics-data-science-normal-distribution/ | Statistics for Data Science: What is Normal Distribution?
+https://www.analyticsvidhya.com/blog/2020/04/5-popular-python-libraries-web-scraping/ | 5 Popular Python Libraries to Perform Web Scraping
+https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/ | Everything you should know about Confusion Matrix for Machine Learning
+https://www.analyticsvidhya.com/blog/2020/04/supervised-learning-unsupervised-learning/ | Supervised Learning vs Unsupervised Learning - A Quick Guide for Beginners
+https://blog.dominodatalab.com/classify-things-multiple-labels/ | Classify all the Things (with Multiple Labels)
+https://blog.dominodatalab.com/three-simple-worrying-stats-problems/ | Three simply worrying stats problems
+https://blog.dominodatalab.com/make-machine-learning-interpretability-rigorous/ | Make Machine Learning interpretability more rigorous
+http://vita.had.co.nz/papers/tidy-data.pdf | Tidy Data
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/ | 7 regression techniques you should know!
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf | A few useful things to know about Machine Learning
+https://www.blog.duomly.com/how-to-pass-machine-learning-interview/ | How to pass the machine learning interview?
+https://www.blog.duomly.com/differences-between-artificial-intelligence-and-machine-learning-and-why-its-important-for-us/ | Differences between Artificial Intelligence and Machine Learning and why it’s important for us
+https://www.blog.duomly.com/15-best-machine-learning-datasets-for-free/ | 15 Best Machine Learning Datasets For Free
+https://victorzhou.com/posts/best-languages-for-machine-learning/ | The Best Programming Languages for Machine Learning
+https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12 | A Beginner's Guide to AI/ML
+http://muratbuffalo.blogspot.com/2013/06/antifragility-from-engineering.html | Antifragility from an engineering perspective
+https://blog.ycombinator.com/learning-math-for-machine-learning/ | Learning Math for Machine Learning
+https://www.youtube.com/watch?v=mLEaw7yY8vo&feature=emb_title | The shortest introduction to Machine Learning
+https://slate.com/technology/2012/12/kaggle-president-jeremy-howard-amateurs-beat-specialists-in-data-prediction-competitions.html | Specialist Knowledge is useless and unhelpful
+http://treycausey.com/data_science_interviews.html | What it's like to be on the data science job market
+https://sebastianraschka.com/blog/2015/why-python.html | Python, Machine Learning, and Language Wars
+http://hangtwenty.github.io/dive-into-machine-learning/ | Dive into Machine Learning
+https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg | Machine Learning in a week
+http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/ | How I wrote my first Machine Learning program in 3 days
+https://www.analyticsvidhya.com/learning-path-learn-machine-learning/ | Learning Path : Your mentor to become a machine learning expert
+https://www.wired.com/2016/09/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary/#.g9p16ldp7 | You Too Can Become a Machine Learning Rock Star! No PhD Necessary.
+https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-and-how-long-did-it-take-you | Are you a self-taught machine learning engineer? If yes, how did you do it, and how long did it take you?
+https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/ | 10 Machine Learning Algorithms Explained to an ‘Army Soldier’
+https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/ | A Tour of Machine Learning Algorithms
+https://blog.aylien.com/10-machine-learning-terms-explained-in-simple-english/ | 10 Machine Learning Terms Explained in Simple English
+https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965 | The 10 Algorithms Machine Learning Engineers Need to Know
+http://www.thetalkingmachines.com/article/trends-machine-learning-2020 | Trends in Machine Learning in 2020
+http://www.thetalkingmachines.com/episodes/explainability-and-inexplicable | Explainability and the Inexplicable
+http://ocdevel.com/mlg/16 | Can AI Be conscious? (Podcast)
+http://ocdevel.com/mlg/1 | Introduction to Machine Learning (Podcast)
+http://ocdevel.com/mlg/15 | Performance Evaluation (Podcast)
+http://ocdevel.com/mlg/7 | Logistic Regression (Podcast)
+http://ocdevel.com/mlg/5 | Linear Regression (Podcast)
+http://ocdevel.com/mlg/2 | What is AI/ML (Podcast)
+https://datastori.es/113-what-makes-a-visualization-memorable-with-michelle-borkin/ | What Makes A Visualization Memorable? with Michelle Borkin (Podcast)
+https://datastori.es/127-storytelling-with-data-with-cole-nussbaumer-knaflic/ | Storytelling with Data with Cole Nussbaumer Knaflic (Podcast)
+https://datastori.es/116-cognitive-bias-and-visualization-with-evanthia-dimara/ | Cognitive Bias and Visualization with Evanthia Dimara (Podcast)
+https://datastori.es/85-machine-bias-with-jeff-larson/ | Machine Bias with Jeff Larson (Podcast)
+https://datastori.es/visualizing-your-google-search-history-with-lisa-charlotte-rost-ds61/ | Visualizing Your "Google Search History" with Lisa Charlotte Rost (Podcast)
+https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.8jvs9lr7q | Machine Learning in a Year
+https://medium.com/machine-intelligence-report/how-to-learn-machine-learning-6fa1c66bf039#.asdxfvenl | How to learn Machine Learning
+https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db | Why businesses fail at machine learning
+https://medium.com/center-for-data-science/automatic-machine-learning-learning-how-to-learn-2de9193bd828 | Automatic Machine Learning: Learning How to Learn
+https://towardsdatascience.com/why-model-explainability-is-the-next-data-science-superpower-b11b6102a5e0 | Why Model Explainability is The Next Data Science Superpower
+https://towardsdatascience.com/4-must-have-skills-every-data-scientist-should-learn-8ab3f23bc325 | 4 Must Have Skills Every Data Scientist Should Learn
+https://www.datasciencecentral.com/profiles/blogs/digital-transformations-in-the-post-covid-world | Digital Transformations in the Post-Covid World
+https://www.datasciencecentral.com/profiles/blogs/data-science-for-analytical-minds-introduction | Data Science for analytical minds | Introduction
+https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet | New Data Science Cheat Sheet, by Maverick Lin
+https://www.datasciencecentral.com/profiles/blogs/the-art-of-thinking-like-a-data-scientist-the-movie | The Art of Thinking Like a Data Scientist: The Movie
+https://www.datasciencecentral.com/profiles/blogs/demystifying-the-ai-infrastructure-stack | Demystifying the AI Infrastructure Stack
+https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/ | 10 things R can do that might surprise you
+https://simplystatistics.org/2019/01/09/how-data-scientists-think-a-mini-case-study/ | How Data Scientists Think - A Mini Case Study
+https://simplystatistics.org/2018/11/01/the-role-of-academia-in-data-science-education/ | The role of academia in data science education
+http://starbridgepartners.com/2020/02/interview-how-to-become-a-data-scientist-with-lisa-qian-data-scientist-at-airbnb/ | INTERVIEW “How to Become a Data Scientist”
+http://starbridgepartners.com/2020/01/which-is-the-best-framework-for-machine-learning/ | Which Is the Best Framework for Machine Learning?
+http://starbridgepartners.com/2019/11/data-analytics-the-present-trend/ | Data Analytics: The Present Trend
+http://starbridgepartners.com/2019/10/why-is-data-analytics-important-in-healthcare/ | Why is Data Analytics Important in Healthcare?
+https://towardsdatascience.com/i-wasnt-getting-hired-as-a-data-scientist-so-i-sought-data-on-who-is-c59afd7d56f5 | I wasn’t getting hired as a Data Scientist. So I sought data on who is.
+https://minimaxir.com/2018/10/data-science-protips/ | Things About Real-World Data Science Not Discussed In MOOCs and Thought Pieces
+https://dfrieds.com/articles/data-science-reality-vs-expectations.html | Data Science: Reality Doesn't Meet Expectations
+https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf | How to recognize AI snake oil
+http://www.stochasticlifestyle.com/the-essential-tools-of-scientific-machine-learning-scientific-ml/ | The Essential Tools of Scientific Machine Learning (Scientific ML)
+https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7 | How to learn Data Science if you're broke
+https://towardsdatascience.com/12-things-i-learned-during-my-first-year-as-a-machine-learning-engineer-2991573a9195 | 12 Things I Learned During My First Year as a Machine Learning Engineer
+https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8 | How to land a Data Scientist job at your dream company — My journey to Airbnb
+https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012 | Why you’re not a job-ready data scientist (yet)
+https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd | Essential Math for Data Science
+https://towardsdatascience.com/jupyter-is-the-new-excel-a7a22f2fc13a | Jupyter is the new Excel
+https://www.analyticsvidhya.com/blog/2020/05/career-paths-business-analytics-role-data-science/ | Career Paths in Business Analytics – Plan your Next Best Role in the Data Science World
+https://www.geeksforgeeks.org/data-cleansing-introduction/ | Data Cleansing
+https://www.geeksforgeeks.org/demystifying-machine-learning/ | Demystifying Machine Learning
+http://www.eigenvector.com/Docs/LinAlg.pdf | An Introduction to Linear Algebra
+https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6 | Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets
+https://miguelgfierro.com/blog/2016/a-gentle-introduction-to-the-basics-of-machine-learning/ | A Gentle Introduction To The Basics Of Machine Learning
+https://medium.com/acing-ai/data-lineage-an-operational-perspective-d807e52e2198 | What can a BI team learn from a data science team?
+https://towardsdatascience.com/dont-get-cursed-by-dimensionality-629bca5de3a5 | Don’t get cursed by dimensionality
+https://towardsdatascience.com/are-you-still-using-pandas-for-big-data-12788018ba1a | Are you still using Pandas for big data?
+https://towardsdatascience.com/5-skills-data-scientists-should-learn-27d186820d17 | 5 skills Data Scientists should learn
+https://medium.com/deepflow-ai/putting-data-science-in-the-hands-of-domain-experts-1bdd090d860d | Putting data science in the hands of domain experts
+https://medium.com/acing-ai/ml-ops-data-science-version-control-5935c49d1b76 | ML Ops: Data Science Version Control
+https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d | Supervised vs. Unsupervised Learning
+https://www.kdnuggets.com/2020/04/java-used-machine-learning-data-science.html | Why Choose Java for Data Science and Machine Learning?
+https://www.analyticsvidhya.com/blog/2019/07/ultimate-list-popular-machine-learning-use-cases/ | Popular Machine Learning Applications and Use Cases in our Daily Life
+http://nautil.us/issue/78/atmospheres/are-neural-networks-about-to-reinvent-physics | Are Neural Networks About to Reinvent Physics?
+https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy | Ways to think about machine learning
+https://www.ben-evans.com/benedictevans/2017/10/27/fashion-maslow-and-facebooks-control-of-social | Does Facebook control the Newsfeed?
+https://www.ben-evans.com/benedictevans/2019/4/8/mechanical-turks | Humans in the loop
+https://www.ben-evans.com/benedictevans/2019/1/29/is-alexa-working | Is Alexa working?
+https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy | Ways to think about machine learning
+https://www.ben-evans.com/benedictevans/2018/3/26/steps-to-autonomy | Steps to autonomous cars: where, not when
+https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner | How I became a machine learning practitioner
+https://news.ycombinator.com/item?id=20842340 | How to Make Money from Machine Learning?
+https://medium.com/syncedreview/facebook-says-its-blender-chatbot-is-the-most-humanlike-ever-6b939d7de8df | Facebook Says Its ‘Blender’ Chatbot Is the Most Humanlike Ever
+https://www.youtube.com/watch?v=SfjJoevBbjU | The Lottery Ticket Hypothesis with Jonathan Frankle (Video)
+https://medium.com/data-science-insider/160-data-science-interview-questions-14dbd8bf0a08 | 160+ Data Science Interview Questions
+https://planspace.org/20200502-looks_like_people_dont_die_on_weekends/ | Looks like people don't die on weekends
+https://blog.quiltdata.com/principles-of-lazy-data-documentation-and-how-to-get-your-team-onboard-bb674b78ea73 | Principles of lazy data documentation — and how to get your team onboard
+https://www.interviewquery.com/blog-snapchat-data-science-interview-questions-and-tips/ | Snapchat Data Science Interview Questions and Tips
+https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html | What is Machine Learning?
+https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196 | Machine Learning is Fun Part 8: How to Intentionally Trick Neural Networks
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww | Machine Learning is Fun!
+https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b | Machine Learning is Fun! Part 2
+https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/ | Machine Learning Basics for a newbie
+https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people | How do you explain Machine Learning and Data Mining to non Computer Science people?
+https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1 | What is machine learning, and how does it work? (Video)
+https://www.innoarchitech.com/blog/machine-learning-an-in-depth-non-technical-guide | Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms
+https://www.analyticsvidhya.com/blog/2020/03/coronavirus-analysis-will-social-distancing-help-prevent-the-spread/ | Coronavirus Analysis: Will Social Distancing Help Prevent the Spread?
+https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/ | What is Multicollinearity? Here’s Everything You Need to Know
+https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/ | A Beginner’s Guide to Random Forest Hyperparameter Tuning
+https://www.analyticsvidhya.com/blog/2020/03/what-are-lambda-functions-in-python/ | What are Lambda Functions? A Quick Guide to Lambda Functions in Python
