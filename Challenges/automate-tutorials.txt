@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=6GtH65lCZ0g | Automating tasks, moving files to different folders based on format
+https://www.youtube.com/watch?v=1Kcco6koC34 | Automate Multuple Excel sheet reporting
+https://www.youtube.com/watch?v=Ou_floKQqd8 | Scraping Data from Twitter
+https://www.youtube.com/watch?v=JJO9fKj3_u4 | Building an indicator to trade based on simple moving averages
+https://www.youtube.com/watch?v=Bg9r_yLk7VY | Building a python app to track Amazon 
+https://www.youtube.com/watch?v=hSc4ErJk33A | How to create interactive charts from excel data
+https://www.youtube.com/watch?v=d2GBO_QjRlo | How to build a simple Instagram bot using Python
