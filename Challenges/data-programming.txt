@@ -1,0 +1,68 @@
+Create an array of shape (3, 2) and populate it with random integers ranging from 0 to 3 (inclusive) from a discrete uniform distribution
+Create an array of shape (3, 2) and populate it with random samples from a uniform distribution over [0, 1)
+Create two lists, one with a list of 5 first_names of your choosing and another with 5 surnames of yuor choosing. Using numpy sort the pairs of surnames and first names and return their indices (sort first by surname and then by name)
+Create a 3-D array with ones on the diagonal and zeros elsewhere using numpy.
+Create a new array of 3*2 float numbers, filled with ones using numpy.
+Create a new array of 3*2 float numbers, filled with zeros.
+Create a new array of 2*5 uints, filled with 6.
+Create an array of [1, 2, 3].
+Let x = [1, 2]. Convert x into an array.
+Let X = np.array([[1, 2], [3, 4]]). Convert x into a matrix.
+Let x = np.array([1, 2, 3]). Create a array copy of x, which has a different id from x.
+Create an array of 2, 4, 6, 8, ..., 100.
+Create a 2-D array whose diagonal equals [1, 2, 3, 4] and 0's elsewhere.
+Let x be array [[1, 2, 3], [4, 5, 6]]. Get the 5th element.
+Let x be array [[1, 2, 3], [4, 5, 6]]. Convert x to [1 4 2 5 3 6]
+Let x be an array [1 2 3] and y be [4 5 6]. Convert it to [[1, 4], [2, 5], [3, 6]]
+Let x be an array [0, 1, 2]. Convert it to [0, 0, 1, 1, 2, 2]
+Let x be an array [0, 0, 0, 1, 2, 3, 0, 2, 1, 0], remove the leading the trailing zeros
+Let x be an array [2, 2, 1, 5, 4, 5, 1, 2, 3]. Get two arrays of unique elements and their counts
+Let x1 be np.array(['Hello','Say'], dtype=np.str) and x2 be np.array(['world','something'], dtype=np.str). Concatenate x1 and x2
+Let x be np.array(['Hello ', 'Say '], dtype=np.str). Repeat x three times element-wise.
+Let x be np.array(['hello world','say something'], dtype=np.str). Capitalize the first letter of x element-wise
+Let x be np.array(['hello','say'], dtype=np.str). Uppercase x element-wise
+Let x be np.array(['hello world','say something'], dtype=np.str). Title-case x element-wise.
+Let x be np.array(['hello world', 'say something'], dtype=np.str). Insert a space between characters of x.
+Let x be np.array(['   hello world   ', '\tsay something\n'], dtype=np.str). Remove the leading and trailing whitespaces of x element-wise
+Let x be np.array(['   hello world   ', '\tsay something\n'], dtype=np.str). Remove the leading whitespaces of x element-wise
+Let x be np.array(['   hello world   ', '\tsay something\n'], dtype=np.str). Remove the trailing whitespaces oc x element-wise.
+Let x be np.array(['Hello my name is John'], dtype=np.str). Split the element of x with spaces
+Let x be np.array(['Hello nmy name is John'], dtype=np.str). Replace "John" with "Jim" in x
+Let x1 be np.array(['Hello', 'my', 'name', 'is', 'Sipho'], dtype=np.str) and x2 be np.array(['Hello', 'my', 'name', 'is', 'Jim'], dtype=np.str). Return x1 == x2, element-wise.
+Let x1 be np.array(['Hello', 'my', 'name', 'is', 'Sipho'], dtype=np.str) and x2 be np.array(['Hello', 'my', 'name', 'is', 'Jim'], dtype=np.str). Return x1 != x2, element-wise.
+Lex x be np.array(['Hello', 'my', 'name', 'is', 'Sipho'], dtype=np.str). Count the number of "i" in x, element-wise.
+Let x be np.array(['Hello', 'I', 'am', 'turning', '25', 'years', 'old'], dtype=np.str). Check if each element of x is composed of digits only
+Let x be np.array(['Hello', 'I', 'am', 'turning', '25', 'years', 'old'], dtype=np.str). Check if each element of x is composed of only lower case letters
+Let x be np.array(['he', 'her', 'hers', 'their', 'theirs', 'his', 'him'], dtype=np.str). Check if each element of x starts with 'hi'
+Create a vector with values ranging from 10 to 49
+Create a 3x3 matrix with values ranging from 0 to 8
+Create a 3x3x3 array with random values
+Create a 10x10 array with random values and find the minimum and maximum values
+Create a random vector of size 30 and find the mean value
+Multiply a 5x3 matrix by a 3x2 matrix
+Return yesterday, today and tomorrow's dates using numpy
+Create a vector of size 10 with values ranging from 0 to 1, both excluded
+Create a random vector of size 10 and sort it
+Create two random array A and B, check if they are equal
+Create a random vector of size 10 and replace the maximum value by 0
+Let x be np.random.randint(0,10,50). Find the most frequent value in x using numpy
+Create a null vector of size 10
+Import pandas as pd. Let x be pd.Series([6,8,7,5], index=list('abcd'), dtype='Int64'). Select the first element of x using integer based lookup.
+Import pandas as pd. Let x be pd.Series([6,8,7,5], index=list('abcd'), dtype='Int64'). Select the first element of x using label indexing.
+Import pandas as pd. Let x be pd.Series([6,8,7,5], index=list('abcd'), dtype='Int64'). Select all elements greater than 6 in x using a boolean series.
+Import pandas as pd and numpy as np. Let df be pd.DataFrame({'ticker': ['AAPL','AAPL','MSFT','IBM','YHOO'], 'date':['2019-12-30','2019-12-31','2019-12-30','2019-12-30','2019-12-30'], 'open':[426.23,427.81,42.3,101.65,35.53]}). Select all rows with the AAPL ticker and the date and open columns.
+Import pandas as pd and numpy as np. Let df be pd.DataFrame({'ticker': ['AAPL','AAPL','MSFT','IBM','YHOO'], 'date':['2019-12-30','2019-12-31','2019-12-30','2019-12-30','2019-12-30'], 'open':[426.23,427.81,42.3,101.65,35.53]}). Assign to the variable dfcopy, df however set the ticker column as the index.
+Import pandas as pd and numpy as np. Let df be pd.DataFrame({'ticker': ['AAPL','AAPL','MSFT','IBM','YHOO'], 'date':['2019-12-30','2019-12-31','2019-12-30','2019-12-30','2019-12-30'], 'open':[426.23,427.81,42.3,101.65,35.53]}). Create a copy of df and name it df2. Add a new column of NaNs to df2 called close. Assign close the same values as open for all open values that are greater than 100. After this sort df2 by its close values with the greatest value appearing at the top.
+Create a pandas Timestamp for January 1st, 2020 16:00 (don't worry about the timezone)
+Using pandas, generate an index of 15 calendays starting on January 1 2020.
+Using pandas, generate an index of all weekdays starting on January 1 2020 and ending on April 30 2020.
+Import pandas as pd and import io. Let df be pd.read_csv(io.StringIO('ticker,open,date,close\nAAPL,426.23,2018-01-04,435.23\nMSFT,42.3,2018-01-04,51.3\nAAPL,436.23,2018-01-05,\nMSFT,52.3,2018-01-05,\n'),parse_dates=['date']). Let volume be pd.DataFrame({'ticker': ['AAPL', 'MSFT', 'IBM', 'YHOO', 'GOOG'],'volume': [1954.73,  335.83,  362.79,  858.18,  629.79]}).assign(date=pd.to_datetime('2018-01-05')). Preserving only the records with common tickers and dates, merge df and volume on ticker and date.
+Import pandas as pd and import io. Let df be pd.read_csv(io.StringIO('ticker,open,date,close\nAAPL,426.23,2018-01-04,435.23\nMSFT,42.3,2018-01-04,51.3\nAAPL,436.23,2018-01-05,\nMSFT,52.3,2018-01-05,\n'),parse_dates=['date']). Let volume be pd.DataFrame({'ticker': ['AAPL', 'MSFT', 'IBM', 'YHOO', 'GOOG'],'volume': [1954.73,  335.83,  362.79,  858.18,  629.79]}).assign(date=pd.to_datetime('2018-01-05')). Preserving the records in both df and volume, merge df and volume on ticker and date
+Write a function that takes an integer as an argument and outputs a string with currency format. Integer in currency format is expressed by a strong of numbers where every three characters are separated by a comma. 
+Using the url 'https://health.data.ny.gov/resource/5pme-xbs5.json'. Return the New York School with the highest rate of religious exemptions to vaccinations.
+Using the url 'https://api.github.com/orgs/google' and the requests library, find out how many public repos are maintained by Google as listed on Github.com
+Let x be [None, 10, 20, 30, None, 50]. Create a list and name it checks. For each value in x if the value in not None and greater than 30 return the boolean value True in your new list named  'checks' or else return the value False.
+Import load_boston from sklearn.datasets. Let data be load_boston(). This will assign the boston dataset to the variable 'data'. Creaet a histogram visualizing this data. Label the x-axis label as price in $1000s and label the y-label axis as count.
+Import load_boston from sklearn.datasets. Let data be load_boston(). Let boston be pd.DataFrame(data.data) and assign the values of the columns using the feature names in our dataset using data.feature_names. Now return scatter plots showing the relationship between each feature (column). Assign data.target to a new column in your dataframe named boston. Name this column 'price'. Return scatterplots showing the relationship between each column and the target column (price column).
+Import load_boston from sklearn.datasets. Let data be load_boston(). Let boston be pd.DataFrame(data.data) and assign the values of the columns using the feature names in our dataset using data.feature_names. Now return scatter plots showing the relationship between each feature (column). Assign data.target to a new column in your dataframe named boston. Name this column 'price'. Return a correlation matrix showin the correlation coefficient values between each column.
+Let x be [[12,3,5],[12,4,5],[3,6,9],[10,12,34]]. For each list in our nested list return the lowest number.
