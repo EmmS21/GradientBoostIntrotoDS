@@ -135,3 +135,4 @@ https://www.analyticsvidhya.com/blog/2020/03/coronavirus-analysis-will-social-di
 https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/ | What is Multicollinearity? Here’s Everything You Need to Know
 https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/ | A Beginner’s Guide to Random Forest Hyperparameter Tuning
 https://www.analyticsvidhya.com/blog/2020/03/what-are-lambda-functions-in-python/ | What are Lambda Functions? A Quick Guide to Lambda Functions in Python
+https://podcasts.google.com/?q=data%20science | Building a career in data science (podcast)
